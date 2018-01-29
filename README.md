@@ -1,6 +1,6 @@
 # Study-Notes
 <br>
-**Hi there! Welcome to here, I am Huangxin.**
+<strong>Hi there! Welcome to here, I am Huangxin.</strong>
 
 Well I am not gonna to tell who am I or anything about myself. This Github account just a little space for my study life.
 
