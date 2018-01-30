@@ -1,5 +1,5 @@
 ## Chapter 2
-<br>
+
 shining 闪亮的
 
 clerk 职员
